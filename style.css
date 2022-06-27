@@ -1,0 +1,8 @@
+
+body { margin: auto;
+width: 50%;}
+
+canvas { 
+    margin: auto;
+    width: 50%;
+    border: 2px double red;}
